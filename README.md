@@ -38,6 +38,11 @@ This project helps to track placement performance, company-wise selections, aver
 
 ---
 
+## 📂 Project Files
+- [Placement Dashboard (.pbix)](dashboard/Placement_Insights_Dashboard.pbix) – Open with **Power BI Desktop** to explore the interactive dashboard.
+
+---
+
 ## 🚀 How to Use
 1. Clone or download this repository.  
 2. Open the `.pbix` file in **Power BI Desktop**.  
