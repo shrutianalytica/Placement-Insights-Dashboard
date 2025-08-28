@@ -59,5 +59,5 @@ Feel free to fork this repo and submit a pull request.
 ---
 
 ## 📧 Contact
-Created by **[Shruti]**  
-For queries: [shrutianalytica@gmail.com]
+Created by **Shruti**  
+For queries: shrutianalytica@gmail.com
