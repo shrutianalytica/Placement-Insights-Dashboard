@@ -34,7 +34,7 @@ This project helps to track placement performance, company-wise selections, aver
 ---
 
 ## 📷 Dashboard Preview
-![Placement Dashboard](media/Placement_Insights_Dashboard.png)  
+![Placement Dashboard](media/Placement_Insights_Dashboard.jpg)  
 
 ---
 
